@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  api_id: process.env.NG_APP_ENV
+  api_id: process.env.API_KEY
 };
 
 /*
