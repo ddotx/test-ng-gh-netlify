@@ -18,6 +18,7 @@ export const environment = {
 };
 `;
 // write the content to the respective file
+//@ts-ignore
 writeFile(targetPath, environmentFileContent, function (err) {
    if (err) {
       console.log(err);
