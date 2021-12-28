@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  api_id: process.env.NG_APP_ENV
 };
