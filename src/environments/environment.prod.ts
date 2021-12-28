@@ -1,4 +1,6 @@
+
 export const environment = {
-  production: true,
-  api_id: process.env.API_KEY
+   production: true,
+   API_KEY: "1234",
+   API_SECRET: "undefined"
 };

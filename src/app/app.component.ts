@@ -9,7 +9,7 @@ import {environment } from './../environments/environment';
 export class AppComponent implements OnInit {
   title = 'test-ng-gh-netlify';
 
-  custom_env = environment.api_id
+  custom_env = environment.API_KEY
 
   ngOnInit() {
     console.log('---env | api_id---', this.custom_env);
