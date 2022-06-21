@@ -1,6 +1,6 @@
 # TestNgGhNetlify
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dc5aa36b-9769-49fe-a3df-9d0acebae9f8/deploy-status)](https://app.netlify.com/sites/practical-wright-1818ca/deploys?branch=main)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc5aa36b-9769-49fe-a3df-9d0acebae9f8/deploy-status)](https://app.netlify.com/sites/practical-wright-1818ca/deploys?branch=dev)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.14.
 
